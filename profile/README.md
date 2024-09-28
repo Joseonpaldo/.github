@@ -68,6 +68,7 @@
 - [API 명세서](#api-명세서)
 
 ## 소개영상
+[![YouTube Video](https://img.youtube.com/vi/jxF3JOLMpdw/0.jpg)](https://youtu.be/jxF3JOLMpdw)
 
 ## ERD
 작업중
