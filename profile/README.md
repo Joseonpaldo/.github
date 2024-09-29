@@ -11,7 +11,7 @@
 | :--- | :---: | :--- |
 | 정민석 | Main Game, Frontend |  |
 | 배동우 | Login, Backend |  |
-| 이병현 | Lobby, Chat, Frontend |  |
+| 이병현 | Lobby, Chat, Frontend | https://github.com/LBang98 |
 | 이현성 | Deployment, Backend | https://github.com/themerous |
 | 정환용 | Login, Backend |  |
 | 최시현 | Minigame(Solo) |  |
