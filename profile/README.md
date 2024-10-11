@@ -14,7 +14,7 @@
 | 이병현 | Lobby, Chat, Frontend | https://github.com/LBang98 |
 | 이현성 | Deployment, Backend | https://github.com/themerous |
 | 정환용 | Login, Backend |  |
-| 최시현 | Minigame(Solo) |  |
+| 최시현 | Minigame(Solo) |https://github.com/andychoi0819  |
 | 허승필 | Minigame(Multi) |  |
 
 ## Tech Stack
