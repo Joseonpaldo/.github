@@ -15,7 +15,7 @@
 | 이현성 | Deployment, Backend | https://github.com/themerous |
 | 정환용 | Login, Backend |  |
 | 최시현 | Minigame(Solo) |https://github.com/andychoi0819  |
-| 허승필 | Minigame(Multi) |  |
+| 허승필 | Minigame(Multi) | https://github.com/seungpil-huh |
 
 ## Tech Stack
 ### Frontend
