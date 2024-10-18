@@ -1,7 +1,7 @@
 # 조선팔도(Joseonpaldo)
 개발일정: 7/19/2024 ~ 9/18/2024
 
-~~[https://joseonpaldo.site (폐쇠중)](https://joseonpaldo.site)~~
+[https://joseonpaldo.site](https://joseonpaldo.site)
 
 
 조선의 팔도를 테마로 한 전략 보드게임입니다. 모노폴리와 윷놀이를 결합한 독창적인 방식으로, 팔도의 다양한 지역을 탐험하며 경쟁합니다. 황금열쇠와 같은 미니게임들이 일부 칸들에 포진해있어 게임 진행이 더욱 대채로워지며, 매번 새로운 도전을 제공합니다.
