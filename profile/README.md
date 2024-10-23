@@ -190,7 +190,11 @@
 
 - Singleplay
 
-  이미지/비디오(Shooter)
+  <video width="320" height="240" controls>
+    <source src="./images/ShootingGame.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+
   - Alien Shooter : 우주선을 좌우로 이동시키며 외계인과 특별한 적들을 처치
     - 게임 방법
       - 좌우 버튼을 통하여 이동
@@ -202,37 +206,53 @@
       - Alien 생성: 매초마다 새로운 외계인이 생성되며 최대 15개의 외계인이 동시에 등장합니다.
       - 충돌 감지: 탄환과 외계인 또는 특별한 적이 충돌할 때 처리되며, 적중된 외계인은 제거됩니다
 
-    이미지/비디오(RPS)
-    - 가위바위보 : 가위, 바위, 보 중 하나를 선택하여 컴퓨터와 3라운드 대결
-      - 게임 방법
-        - 가위, 바위, 보 중 한가지를 선택
-      - 규칙
-        - 각 라운드별 선택시간 3초
-        - 무승부시 해당 라운드 재시작
-      - 게임 로직
-        - 타이머: 각 라운드는 3초 내에 선택하지 않으면 자동으로 패배 처리됩니다.
-        - 점수 계산: 플레이어와 컴퓨터의 승패를 기록하여 게임이 종료되면 승자가 결정됩니다.
+  <video width="320" height="240" controls>
+    <source src="./images/RPSGame.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+
+  - 가위바위보 : 가위, 바위, 보 중 하나를 선택하여 컴퓨터와 3라운드 대결
+    - 게임 방법
+      - 가위, 바위, 보 중 한가지를 선택
+    - 규칙
+      - 각 라운드별 선택시간 3초
+      - 무승부시 해당 라운드 재시작
+    - 게임 로직
+      - 타이머: 각 라운드는 3초 내에 선택하지 않으면 자동으로 패배 처리됩니다.
+      - 점수 계산: 플레이어와 컴퓨터의 승패를 기록하여 게임이 종료되면 승자가 결정됩니다.
           
-    이미지/비디오(Bomb)
-    - 폭탄 해체
-      - 게임 방법
-        - 플레이어는 두 가지 와이어(빨강, 파랑) 중 하나를 선택하여 폭탄을 해체
-      - 게임 로직
-        - 해체 성공/실패: 올바른 와이어를 선택하면 폭탄이 해체되고, 잘못된 와이어를 선택하면 게임이 종료됩니다
+  <video width="320" height="240" controls>
+    <source src="./images/BombGame.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+
+  - 폭탄 해체
+    - 게임 방법
+      - 플레이어는 두 가지 와이어(빨강, 파랑) 중 하나를 선택하여 폭탄을 해체
+    - 게임 로직
+      - 해체 성공/실패: 올바른 와이어를 선택하면 폭탄이 해체되고, 잘못된 와이어를 선택하면 게임이 종료됩니다
           
-    이미지/비디오(platformer)
-    - 플랫폼 게임 : 장애물과 로켓을 피하면서 제한된 시간 내에 목표에 도달
-      - 게임 방법
-        - 화살표 키를 이용하여 좌우 이동
-        - 스페이스를 통하여 점프
-        - g키를 통한 사다리와의 상호작용
-      - 게임 로직
-        - 중력 및 점프: 플레이어의 중력과 점프 로직이 구현되어 있으며, 플랫폼에 도착하면 점프 상태가 해제됩니다
-        - 로켓 생성 및 이동: 5초마다 새로운 로켓이 생성되며, 로켓은 플레이어를 공격하기 위해 날아옵니다
+  <video width="320" height="240" controls>
+    <source src="./images/PlatformGame.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+
+  - 플랫폼 게임 : 장애물과 로켓을 피하면서 제한된 시간 내에 목표에 도달
+    - 게임 방법
+      - 화살표 키를 이용하여 좌우 이동
+      - 스페이스를 통하여 점프
+      - g키를 통한 사다리와의 상호작용
+    - 게임 로직
+      - 중력 및 점프: 플레이어의 중력과 점프 로직이 구현되어 있으며, 플랫폼에 도착하면 점프 상태가 해제됩니다
+      - 로켓 생성 및 이동: 5초마다 새로운 로켓이 생성되며, 로켓은 플레이어를 공격하기 위해 날아옵니다
 
 - Multiplay
   
-  이미지/비디오(무궁화)
+  <video width="320" height="240" controls>
+    <source src="./images/MugunghwaGame.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+
   - 무궁화 꽃이 피었습니다 : 4인용 서바이벌 게임으로, 술래가 돌아보는 타이밍을 피해 결승선에 먼저 도착하는 플레이어가 승리
     - 게임 방법
       - 스페이스바를 눌러 앞으로 전진합니다.
@@ -244,7 +264,11 @@
       - 시간 내에 도달하지 못하면 전원 탈락합니다.
       - 술래의 돌아보는 타이밍은 랜덤입니다.
         
-  이미지/비디오(스네이크)
+  <video width="320" height="240" controls>
+    <source src="./images/SnakeGame.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  
   - 스네이크 게임 : 뱀을 조종하여 가장 오래 살아남거나 높은 점수를 얻는 플레이어가 승리하는 4인용 서바이벌 게임
     - 게임 방법
       - 방향키 (w,a,s,d) 를 사용하여 뱀의 방향을 조종합니다.
@@ -258,6 +282,9 @@
 
 
 ## API 명세서
-이미지 들어갈 공간(7)
+<img src="./images/josun10.png" alt="이미지 설명" width="400">
+<img src="./images/josun11.png" alt="이미지 설명" width="400">
+<img src="./images/josun12.png" alt="이미지 설명" width="400">
+
 - swagger와 spring docs를 이용하여 작성
 - authorize 기능을 이용하여 spring security로 보호된 엔드포인트도 테스트 가능
