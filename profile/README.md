@@ -10,7 +10,7 @@
 | Name | Role | Github |
 | :--- | :---: | :--- |
 | 정민석 | Main Game, Frontend |  |
-| 배동우 | Login, Backend |  |
+| 배동우 | Login, Backend | https://github.com/dongwoobae |
 | 이병현 | Lobby, Chat, Frontend | https://github.com/LBang98 |
 | 이현성 | Deployment, Backend | https://github.com/themerous |
 | 정환용 | Login, Backend |  |
